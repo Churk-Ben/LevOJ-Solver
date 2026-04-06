@@ -57,8 +57,8 @@ graph TD
 _如果你想自己编译运行_ :
 
 1. 克隆项目到本地.
-2. 修改 `src/main.cpp` 中的 `HOST` 为合适的IP地.
-3. 修改 `src/main.cpp` 中的 `query_body` 为合适的提示.
+2. 修改 `src/main.cpp` 中的 `HOST` 为合适的IP地址.
+3. 修改 `src/main.cpp` 中的 `query_body` 为合适的提示词.
 
 4. 编译并运行:
    ```
